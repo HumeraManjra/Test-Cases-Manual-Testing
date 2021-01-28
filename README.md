@@ -1,1 +1,1 @@
-# Test-Cases-Manual-Testing
+This Repository contains Test cases for Testing Functionalities of Application
